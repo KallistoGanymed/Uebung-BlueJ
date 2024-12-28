@@ -62,6 +62,3 @@ public class HexConverter {
         System.out.println("Binary: "+DecimalToBinary(dec));
     }
 }
-
-//comment from IntelliJ
-//comment from BlueJ
