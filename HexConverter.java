@@ -54,7 +54,9 @@ public class HexConverter {
             }
         }
         System.out.println(Bin.replaceAll("^0+", ""));
+        int i = 0;
         return null;
+
     }
 
     public static void GetAllTypes(int dec){
