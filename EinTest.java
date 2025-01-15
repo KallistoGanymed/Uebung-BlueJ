@@ -1,5 +1,5 @@
 //leer
-public class  einTest
+public class  EinTest
 {
     public void test ()
     {
