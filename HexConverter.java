@@ -12,7 +12,7 @@ public class HexConverter {
                 currentNumber = Integer.parseInt(String.valueOf(HexChar));
             }catch(NumberFormatException nfe){
                 switch (HexChar) {
-                    case 'a' -> currentNumber = 10;
+                    case 'a' :> currentNumber = 10;
                     case 'b' -> currentNumber = 11;
                     case 'c' -> currentNumber = 12;
                     case 'd' -> currentNumber = 13;
