@@ -53,9 +53,9 @@ public class HexConverter {
                 Bin += "0";
             }
         }
-        System.out.println(Bin.replaceAll("^0+", ""));
+        String print = (Bin.replaceAll("^0+", ""));
         int i = 0;
-        return null;
+        return print;
 
     }
 
